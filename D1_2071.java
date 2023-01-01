@@ -26,5 +26,4 @@ public class D1_2071 {
 			System.out.println("#" + test_case + " " + Math.round(sum/10)); // Math.round(): 실수의 소수점 첫번째 자리를 반올림하여 정수로 리턴
 		}
 	}
-
 }
