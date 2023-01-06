@@ -42,6 +42,5 @@ public class D2_1961 {
 			}
 
 		}
-
 	}
 }
